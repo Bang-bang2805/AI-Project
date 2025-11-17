@@ -1,0 +1,6 @@
+﻿Model,AUC_High,AUC_Medium,AUC_Low,AUC_Micro,AUC_Macro
+Decision Tree,1.0,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0,1.0
+Logistic Regression,0.994,1.0,0.987,0.996,0.994
+KNN,0.744,0.966,0.952,0.981,0.887
+SVM,0.994,1.0,0.995,0.999,0.996

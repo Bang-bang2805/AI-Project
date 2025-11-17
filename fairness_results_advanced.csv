@@ -1,0 +1,6 @@
+﻿Model,DP_Low,DP_High,DP_Norm_Low,DP_Norm_High,EO_Low,EO_High,PP_Low,PP_High,Threshold_Adjusted,DP_Low_Adjusted,DP_High_Adjusted,EO_Low_Adjusted,EO_High_Adjusted,PP_Low_Adjusted,PP_High_Adjusted
+Decision Tree,0.244,0.095,1.0,0.0,1.0,1.0,1.0,1.0,0.5,0.022,0.024,0.0,0.0,,
+Random Forest,0.244,0.119,1.0,0.0,1.0,1.0,1.0,0.75,0.5,0.022,0.024,0.0,0.0,,
+Logistic Regression,0.222,0.119,1.0,0.0,0.9,0.667,1.0,0.5,0.5,0.022,0.024,0.0,0.0,,
+KNN,0.222,0.119,1.0,0.0,0.9,1.0,1.0,0.75,0.5,0.022,0.024,0.0,0.0,,
+SVM,0.222,0.119,1.0,0.0,0.9,1.0,1.0,0.75,0.5,0.022,0.024,0.0,0.0,,

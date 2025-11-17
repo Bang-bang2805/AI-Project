@@ -1,0 +1,6 @@
+﻿Model,Demographic_Parity_Low,Demographic_Parity_High,Equal_Opportunity_Low,Equal_Opportunity_High,Predictive_Parity_Low,Predictive_Parity_High
+Decision Tree,0.233,0.075,1.0,1.0,1.0,1.0
+Random Forest,0.233,0.1,1.0,1.0,1.0,0.75
+Logistic Regression,0.209,0.1,0.9,0.667,1.0,0.5
+KNN,0.209,0.1,0.9,1.0,1.0,0.75
+SVM,0.209,0.1,0.9,1.0,1.0,0.75
